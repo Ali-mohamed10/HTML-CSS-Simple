@@ -330,7 +330,7 @@ header a:hover {
     position: absolute;
     z-index: 1;
     left: 5%;
-    top: 40%;
+    top: 30%;
 }
 @media (max-width: 767px) {
     .services .designs img {
