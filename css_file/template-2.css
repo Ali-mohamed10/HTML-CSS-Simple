@@ -366,6 +366,7 @@ header a:hover {
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
     grid-template-rows: 300px 300px;
+    margin: 0 15px;
 }
 .box-imgs div img {
     width: 100%;
